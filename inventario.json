@@ -1,0 +1,96 @@
+{
+    "Objetos Comunes": [
+        {
+            "nombre": "Poción",
+            "cantidad": 5,
+            "efecto": "Restaura 20 PS",
+            "descripcion": "Una poción spray que restaura 20 PS de un Pokémon."
+        },
+        {
+            "nombre": "Antídoto",
+            "cantidad": 3,
+            "efecto": "Cura el envenenamiento",
+            "descripcion": "Elimina el veneno de un Pokémon."
+        },
+        {
+            "nombre": "Cuerda Huida",
+            "cantidad": 1,
+            "efecto": "Permite huir de cuevas o gimnasios",
+            "descripcion": "Una cuerda para escapar rápidamente de lugares cerrados."
+        }
+    ],
+    "Pok\u00e9 Balls": [
+        {
+            "nombre": "Poké Ball",
+            "cantidad": 10,
+            "efecto": "Captura un Pokémon salvaje",
+            "descripcion": "Una bola para atrapar Pokémon."
+        },
+        {
+            "nombre": "Super Ball",
+            "cantidad": 5,
+            "efecto": "Captura un Pokémon salvaje (mayor tasa)",
+            "descripcion": "Una bola mejorada con mayor tasa de captura."
+        },
+        {
+            "nombre": "Ultra Ball",
+            "cantidad": 2,
+            "efecto": "Captura un Pokémon salvaje (alta tasa)",
+            "descripcion": "La bola definitiva con la tasa de captura más alta."
+        }
+    ],
+    "Objetos Clave": [
+        {
+            "nombre": "Bicicleta",
+            "cantidad": 1,
+            "efecto": "Permite moverse más rápido",
+            "descripcion": "Una bicicleta plegable que acelera el desplazamiento."
+        },
+        {
+            "nombre": "Pokédex",
+            "cantidad": 1,
+            "efecto": "Registra información de Pokémon",
+            "descripcion": "Una enciclopedia electrónica que registra datos de Pokémon."
+        }
+    ],
+    "Bayas": [
+        {
+            "nombre": "Baya Aranja",
+            "cantidad": 8,
+            "efecto": "Restaura 10 PS",
+            "descripcion": "Una baya que restaura una pequeña cantidad de PS."
+        },
+        {
+            "nombre": "Baya Zreza",
+            "cantidad": 4,
+            "efecto": "Cura cualquier problema de estado",
+            "descripcion": "Una baya amarga que cura problemas de estado."
+        },
+        {
+            "nombre": "Baya Atania",
+            "cantidad": 6,
+            "efecto": "Cura el sueño",
+            "descripcion": "Una baya de color azul que despierta a un Pokémon dormido."
+        }
+    ],
+    "MT/MO": [
+        {
+            "nombre": "MO01 Corte",
+            "cantidad": 1,
+            "efecto": "Corta árboles pequeños",
+            "descripcion": "Una máquina oculta que enseña el movimiento Corte."
+        },
+        {
+            "nombre": "MO03 Surf",
+            "cantidad": 1,
+            "efecto": "Navega sobre el agua",
+            "descripcion": "Una máquina oculta que enseña el movimiento Surf."
+        },
+        {
+            "nombre": "MT10 Llamarada",
+            "cantidad": 1,
+            "efecto": "Poderoso ataque de fuego",
+            "descripcion": "Una máquina técnica que enseña el movimiento Llamarada."
+        }
+    ]
+}
